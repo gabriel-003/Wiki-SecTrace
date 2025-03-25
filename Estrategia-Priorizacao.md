@@ -6,7 +6,7 @@ A ideia é priorizar tarefas que desbloqueiam outras áreas do projeto e garanti
 
 ## **Fases de Desenvolvimento**  
 
-### **Configuração da Infraestrutura** 
+## **Configuração da Infraestrutura** 
 > *Objetivo: Estabelecer a base para o desenvolvimento e testes do projeto.*  
 
 **Tarefas Prioritárias:**  
@@ -17,7 +17,7 @@ A ideia é priorizar tarefas que desbloqueiam outras áreas do projeto e garanti
 
 ---
 
-### **Desenvolvimento do Backend**
+## **Desenvolvimento do Backend**
 > *Objetivo: Criar a API principal para manipulação de dados e regras de negócio.*  
 
 **Tarefas Prioritárias:**  
@@ -28,7 +28,7 @@ A ideia é priorizar tarefas que desbloqueiam outras áreas do projeto e garanti
 
 ---
 
-### Desenvolvimento do Frontend** 
+## **Desenvolvimento do Frontend** 
 > *Objetivo: Criar a interface de usuário para interação com o sistema.*  
 
 **Tarefas Prioritárias:**  
@@ -39,7 +39,7 @@ A ideia é priorizar tarefas que desbloqueiam outras áreas do projeto e garanti
 
 ---
 
-### **Fase 4 - Ajustes e Otimizações**  
+## **Ajustes e Otimizações**  
 > *Objetivo: Melhorar a performance, segurança e estabilidade do projeto antes da primeira versão pública.*  
 
 **Tarefas Prioritárias:**  
