@@ -1,5 +1,3 @@
-Aqui está uma versão mais profissional e refinada do seu texto:  
-
 ---
 
 # Wiki-SecTrace  
